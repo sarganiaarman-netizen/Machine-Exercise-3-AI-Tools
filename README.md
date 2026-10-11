@@ -1,0 +1,1 @@
+# Machine Exercise 3 - AI Tools This repository contains practical work for Machine Exercise 3 of the Artificial Intelligence Tools and Applications Lab. Topics: Git, GitHub, branches, Pull Requests, GitHub Actions, and GitHub Copilot.
